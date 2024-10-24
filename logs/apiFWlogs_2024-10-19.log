@@ -1,0 +1,4 @@
+[INFO ] 2024-10-19 20:34:23,812 userTest2.createUserTest() - --Test create user with p file---
+[INFO ] 2024-10-19 20:34:24,371 userTest2.getUserTest() - --Test get user with p file---
+[INFO ] 2024-10-19 20:34:25,089 userTest2.updateUserTest() - --Test update user with p file---
+[INFO ] 2024-10-19 20:34:25,598 userTest2.dltUserTest() - --Test delete user with p file---

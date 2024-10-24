@@ -1,0 +1,4 @@
+[INFO ] 2024-10-21 01:50:13,389 userTest.createUserTest() - --Test create user---
+[INFO ] 2024-10-21 01:50:13,729 userTest.getUserTest() - --Test get user---
+[INFO ] 2024-10-21 01:50:14,177 userTest.updateUserTest() - --Test update user---
+[INFO ] 2024-10-21 01:50:14,793 userTest.dltUserTest() - --Test delete user---
